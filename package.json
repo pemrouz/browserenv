@@ -1,0 +1,12 @@
+{
+  "name": "browserenv",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "utilise": "*",
+    "d3": "*",
+    "jsdom": "*"
+  },
+  "author": "Pedram Emrouznejad (https://github.com/pemrouz)",
+  "license": "pemrouz.mit-license.org"
+}
