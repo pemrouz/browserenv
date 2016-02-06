@@ -3,9 +3,8 @@
   "version": "0.0.3",
   "main": "index.js",
   "dependencies": {
-    "utilise": "*",
-    "d3": "*",
-    "jsdom": "*"
+    "jsdom": "*",
+    "utilise": "*"
   },
   "author": "Pedram Emrouznejad (https://github.com/pemrouz)",
   "license": "pemrouz.mit-license.org"
