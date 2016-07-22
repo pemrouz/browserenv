@@ -1,8 +1,9 @@
 var client = require('utilise/client')
-  
+  , document
+
 if (!client) {
   global.window = require('jsdom').jsdom('<div>').defaultView
-  global.document = window.document
+  global.document = document = window.document
 } else {
   document = window.document
 }
